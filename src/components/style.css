@@ -1,0 +1,52 @@
+/* index.css atau tailwind.css */
+
+body {
+    background-color: #f9fafb; /* warna latar belakang lebih terang */
+    color: #1f2937; /* warna teks gelap untuk visibilitas yang lebih baik */
+  }
+  
+  h1, h2, h3 {
+    color: #111827; /* Warna teks untuk heading lebih gelap */
+  }
+  
+  table th, table td {
+    color: #1f2937; /* Warna teks untuk tabel */
+  }
+  
+  .bg-gray-50 {
+    background-color: #f9fafb !important; /* Warna latar belakang lebih terang */
+  }
+  
+  .bg-gray-100 {
+    background-color: #f3f4f6 !important; /* Sedikit lebih gelap untuk area yang lebih rendah */
+  }
+  
+  .bg-gray-200 {
+    background-color: #e5e7eb !important; /* Latar belakang abu-abu untuk header */
+  }
+  
+  .text-gray-800 {
+    color: #1f2937 !important; /* Menjadi lebih gelap untuk teks */
+  }
+  
+  .text-gray-900 {
+    color: #111827 !important; /* Teks lebih gelap */
+  }
+  
+  .text-red-500 {
+    color: #ef4444 !important; /* Warna merah yang lebih cerah */
+  }
+  
+  .bg-white {
+    background-color: white !important;
+  }
+  
+  .shadow {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+  }
+  
+  .border-l-4 {
+    border-left-width: 4px !important;
+    border-color: #ef4444 !important; /* Warna merah untuk border */
+  }
+  
